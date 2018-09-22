@@ -3,7 +3,7 @@
 <title>Prueba de daniel</title>
 </head>
 <body>
-<?php echo '<p>Hola mundo $_GET['nombre'] </p>'; 
+<?php echo '<p>Hola mundo'. $_GET['nombre'].' </p>'; 
 
 ?>
 </body>
